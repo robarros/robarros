@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robarros" alt="robarros" /> </p>
 
-- 🔭 I’m currently studing on [Certified Kubernetes Security Specialist]
+- 🔭 I’m currently studing on Certified Kubernetes Security Specialist
 
 - 🌱 I’m currently learning **CI/CD**
 
